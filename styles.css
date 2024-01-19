@@ -1670,3 +1670,11 @@ a.active {
 .scroll-on-hover:hover {
   -webkit-mask-position: left top;
 }
+
+li {
+  list-style:none;
+}
+
+ul {
+  list-style:none;
+}
